@@ -1,6 +1,6 @@
 ## Creating a Genetic Algorithm to optimize bus charging schedules for Windsor Transit
 
-#### What has to be done:
+#### What has to be done with the current scope:
 - Create a system that can track multiple trips and trip times in the `H:MM` format and notify us in the console if
 a bus has arrived at a bus station. Once a trip is complete, the simulation should no longer scrape its datetime values
 to notify if a bus has arrived. 
@@ -18,6 +18,6 @@ Current time is 8:13
 trip_14 starts at 8:15 from the terminal the bus is at
 Instead of creating a new bus for trip_14, use the existing bus to take over the trip.
 ```
-..* The amount of time needed for a bus to charge 
+
 
 
